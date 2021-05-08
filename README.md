@@ -1,4 +1,4 @@
-This github site is for scientific research. 
+This github site is for scientific research projects. 
 
 Main host: Zheming Gao
 
